@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_flutter/test1.dart';
 import 'package:mobile_flutter/widget.dart';
 
 void main() {

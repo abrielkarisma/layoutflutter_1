@@ -179,7 +179,8 @@ class MyWidget extends StatelessWidget {
                   width: double.infinity,
                   height: 200,
                   child: GridView.count(
-                    crossAxisCount: 3, // Number of columns
+                    //scrollDirection: Axis.horizontal, //MENGATUR ARAH LIST
+                    crossAxisCount: 3, //Jumlah Column
                     children: [
                       Container(
                         color: Colors.red,
